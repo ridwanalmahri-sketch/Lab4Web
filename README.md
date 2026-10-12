@@ -1,10 +1,15 @@
-<img width="304" height="135" alt="image" src="https://github.com/user-attachments/assets/f6d8b3a3-08b0-476d-bde9-396e5135d22d" /># Praktikum 4 : HTML Lanjutan - Pemrograman Web
+# Praktikum 4 : HTML Lanjutan - Pemrograman Web
+<img width="304" height="135" alt="image" src="https://github.com/user-attachments/assets/f6d8b3a3-08b0-476d-bde9-396e5135d22d" />
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 4 Pemrograman Web.  
+
   
 Nama : M.Ridwan Al Mahri
+
 NIM : 312510157
+
 Kelas : I251B  
+
 Mata Kuliah : Pemrograman Web  
 
 
